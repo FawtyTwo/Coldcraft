@@ -1,0 +1,24 @@
+First version (Cold):
+-Temperature going up or down based on:
+  Biome (Cold Biomes)
+  Time of day
+  Wearing armor or not
+  Near furnace, fire, or torch
+  Whether the player has armor or not
+  Detect if the player is in shelter (if possible)
+-Start to lose health when temperature hits zero, perhaps add witty death message.
+-Try to add some kind of HUD to see temperature (maybe blue hearts)
+
+Second version (Heat):
+-Temperature going up or down based on:
+  Biome (Hot Biomes)
+  Time of day
+  Wearing armor or not
+  In water (Suspends heat going up?)
+-Add "Comfort zone" of temperature between hot and cold, perhaps make HUD disappear.
+-Add ability to consume water vials, or make new consumable that brings heat down.
+-Start to loose health when temperature is at maximum
+
+Third version:
+-Add more stuff
+-Take advice from people in forums?
